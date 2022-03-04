@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/lorenzejay.svelte-l0cs6kwg-fork-l0ctyxhd",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve MDRhre0ECBz4PJst3aMC --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
